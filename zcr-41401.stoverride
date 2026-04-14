@@ -16,3 +16,6 @@ proxy-groups:
       - '新加坡Z03⚡️IEPL'
     url: http://www.gstatic.com/generate_204
     interval: 300
+rules:
+  - 'DOMAIN,generativelanguage.googleapis.com,Google AI'
+  - 'DOMAIN,alkalimakersuite-pa.clients6.google.com,Google AI'
