@@ -17,5 +17,5 @@ proxy-groups:
     url: http://www.gstatic.com/generate_204
     interval: 300
 rules:
-  - 'DOMAIN,generativelanguage.googleapis.com,Google AI'
-  - 'DOMAIN,alkalimakersuite-pa.clients6.google.com,Google AI'
+  - 'DOMAIN,generativelanguage.googleapis.com,Sp Group'
+  - 'DOMAIN,alkalimakersuite-pa.clients6.google.com,Sp Group'
