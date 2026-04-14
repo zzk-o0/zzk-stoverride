@@ -1,7 +1,7 @@
 name: zzk custom rules
 
 proxy-groups:
-  - name: 自动选择
+  - name: Sp Group
     type: url-test
     proxies:
       - '日本Z02⚡️IEPL'
